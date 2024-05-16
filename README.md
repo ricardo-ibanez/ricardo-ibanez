@@ -77,7 +77,7 @@
 ## 🌐 Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
--  **Linkedin:** [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ibanez/)
+-  **Linkedin:** [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ibanez/)
 - **Correo electrónico:** ricardoibanezmejias@gmail.com
   
 
