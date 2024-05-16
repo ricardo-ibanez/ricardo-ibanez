@@ -4,7 +4,9 @@
 </div>
 
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif)
+<div style="text-align: center;">
+    <img src="https://cibercom.es/wp-content/uploads/2018/12/giphy-2.gif" alt="Imagen centrada">
+</div>
 
 
 <h3 align="center">¡Hola! Soy <b>Ricardo Ibáñez Mejias</b>, un apasionado <b>Técnico Superior de Desarrollo de Aplicaciones Multitplataforma</b> y <b>Full Stack Junior</b> con un recorrido que abarca diversos aspectos del fascinante mundo del desarrollo. He tenido que sumergirme en un amplio abanico de tecnologías que van desde el desarrollo web hasta la programación, pasando por las bases de datos y el desarrollo de aplicaciones móviles. Esta experiencia y formación me han permitido adquirir habilidades sólidas y versátiles que me motivan a seguir explorando y creciendo en este emocionante campo.</h3>
