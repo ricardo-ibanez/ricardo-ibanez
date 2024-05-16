@@ -35,7 +35,7 @@
 </div>
   <div align="center">
    
-![212749168-86d6c7ab-98da-409b-998f-c5b74721badd (2)](https://github.com/ricardo-ibanez)
+
 
 
 
