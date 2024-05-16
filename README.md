@@ -4,10 +4,10 @@
 </div>
 
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/8545ceac-e723-4e42-8aeb-e1acc26b5fa7)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ricardo-ibanez)
 
 
-<h3 align="center">¡Hola! Soy <b>Pablo González Silva</b>, un apasionado <b>Técnico Superior de Desarrollo de Aplicaciones Multitplataforma</b> y <b>Full Stack Junior</b> con un recorrido que abarca diversos aspectos del fascinante mundo del desarrollo. He tenido que sumergirme en un amplio abanico de tecnologías que van desde el desarrollo web hasta la programación, pasando por las bases de datos y el desarrollo de aplicaciones móviles. Esta experiencia y formación me han permitido adquirir habilidades sólidas y versátiles que me motivan a seguir explorando y creciendo en este emocionante campo.</h3>
+<h3 align="center">¡Hola! Soy <b>Ricardo Ibáñez Mejias</b>, un apasionado <b>Técnico Superior de Desarrollo de Aplicaciones Multitplataforma</b> y <b>Full Stack Junior</b> con un recorrido que abarca diversos aspectos del fascinante mundo del desarrollo. He tenido que sumergirme en un amplio abanico de tecnologías que van desde el desarrollo web hasta la programación, pasando por las bases de datos y el desarrollo de aplicaciones móviles. Esta experiencia y formación me han permitido adquirir habilidades sólidas y versátiles que me motivan a seguir explorando y creciendo en este emocionante campo.</h3>
 
 ---
 
@@ -37,7 +37,7 @@
 </div>
   <div align="center">
    
-![212749168-86d6c7ab-98da-409b-998f-c5b74721badd (2)](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/1fcf6b4b-9a8d-49d0-aea6-d30fb2f79755)
+![212749168-86d6c7ab-98da-409b-998f-c5b74721badd (2)](https://github.com/ricardo-ibanez)
 
 
 
@@ -79,12 +79,8 @@
 ## 🌐 Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
--  **Linkedin:** [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
-- **Correo electrónico:** pablogonzalezsilva6@gmail.com
+-  **Linkedin:** [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ibanez/)
+- **Correo electrónico:** ricardoibanezmejias@gmail.com
+  
 
-- ### 📊Estadísticas de mis repositorios :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGonz68&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  ---
-  ![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/8a9559bd-a3d1-4dfb-a078-270a41163ab5)
-<h1 align="center">¡Gracias por visitar mi perfil! 🌟</h1>
