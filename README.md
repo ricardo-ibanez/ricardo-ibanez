@@ -12,7 +12,7 @@
 
 ## 📝 Sobre mí
 
-- 👨‍💻 **Actualmente estoy trabajando en prácticas como Desarrollador Full Stack en Hermes Interactiva.**
+- 👨‍💻 **Actualmente estoy trabajando como Back-End en Madrid.**
 - 🎓 **Graduado en Técnico Superior de Desarrollo de Aplicaciones Multitplataforma.** 
 - 💼 **Experiencia y formación en Desarrollo Web, Programación, Desarrollo de Bases de Datos y Desarrollo de Aplicaciones Móviles.**
  <div align="center">
